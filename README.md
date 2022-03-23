@@ -1,4 +1,4 @@
-# CTIS164 Project 3 Virus Hunting
+# CTIS164 Project 3 - Virus Hunting
 
 Third project for CTIS164 Technical Mathematics with Programming course.
 
